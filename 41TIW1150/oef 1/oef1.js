@@ -58,7 +58,7 @@ class Rider {
     }
 
     toString() {
-        return `${this._name}$ {this._firstname}`;
+        return `${this._name} ${this._firstname}`;
     }
 }
 
@@ -148,7 +148,7 @@ class Competition {
     }
 
     toString() {
-        return `Competition: (${this._date} - ${this._circuit}`;
+        return `Competition: (${this._date.getDate()}/${this._date.getMonth()}/${this._date.getFullYear()} - ${this._circuit}`;
     }
 }
 
