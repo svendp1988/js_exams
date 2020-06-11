@@ -1,0 +1,61 @@
+{
+  "transacties": [
+  {
+    "Datum": "02/01/2020",
+    "Naam": "W. Smeders",
+    "Account": "BE20001255790995",
+    "Bedrag": 1200,
+    "Mutatiesoort": "Internetbankieren",
+    "Mededeling": "Overnachting"
+  },
+  {
+    "Datum": "12/03/2020",
+    "Naam": "Adyen Drukwerk",
+    "Account": "BE760161500956",
+    "Bedrag": 790,
+    "Mutatiesoort": "Overschrijving",
+    "Mededeling": "Huur"
+  },
+  {
+    "Datum": "13/04/2020",
+    "Naam": "BVBA 't Dolfijntje",
+    "Account": "NL64INGB0003218",
+    "Bedrag": -85,
+    "Mutatiesoort": "Overschrijving",
+    "Mededeling": "Benzine"
+  },
+  {
+    "Datum": "24/04/2020",
+    "Naam": "Stad Hasselt",
+    "Account": "BE625821457235",
+    "Bedrag": -130,
+    "Mutatiesoort": "Betaalautomaat",
+    "Mededeling": "Factuur"
+  },
+  {
+    "Datum": "05/05/2020",
+    "Naam": "Autobelasting Vlaanderen",
+    "Account": "BE658214578543",
+    "Bedrag": -450,
+    "Mutatiesoort": "Overschrijving",
+    "Mededeling": "Autotaks"
+  },
+  {
+    "Datum": "16/05/2020",
+    "Naam": "Particulieren",
+    "Account": "BE78005211785421",
+    "Bedrag": 1525,
+    "Mutatiesoort": "Internetbankieren",
+    "Mededeling": "Contante verkoop"
+  },
+  {
+    "Datum": "26/05/2020",
+    "Naam": "Real Dolmen",
+    "Account": "NL64INGB0003218",
+    "Bedrag": 2180,
+    "Mutatiesoort": "Betaalautomaat",
+    "Mededeling":"Contante verkoop"
+  }
+]
+}
+
